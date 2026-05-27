@@ -1,0 +1,13 @@
+metric,value,description
+price_per_wash,950,средний чек за одну мойку
+variable_cost_per_wash,220,вода химия электричество и эквайринг на одну мойку
+base_rent_month,300000,базовая месячная аренда площадки
+service_cost_month,120000,обслуживание точки и расходные работы в месяц
+equipment_payment_month,220000,условный месячный платеж за оборудование
+marketing_month,50000,локальное продвижение и навигация
+investment_start,5800000,первичные вложения в запуск точки
+days_per_month,30,расчетный месяц
+base_daily_washes,18,базовый поток моек в день
+traffic_weight_washes,4,добавка к дневному потоку за балл трафика
+density_weight_washes,14,добавка за плотность района после нормализации
+competition_penalty_washes,8,штраф за конкурентную нагрузку после нормализации

@@ -1,0 +1,6 @@
+source,type,url,used_for
+PortalWash,static parsing,https://portalwash.ru/adress,addresses of robotic car wash competitors
+OpenStreetMap Overpass API,api,https://overpass-api.de/,car wash objects near candidate districts
+Wikipedia districts reference,open reference,https://ru.wikipedia.org/wiki/Районы_Москвы,population and area of Moscow districts
+Manual candidate table,manual table,data/input/candidate_places.csv,candidate places and simple traffic/rent estimates
+
