@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+tests/
+*.toml
+outputs/
+reports/artifact-build-manifest.json
+reports/~$*.pptx
